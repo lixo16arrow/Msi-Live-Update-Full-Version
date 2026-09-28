@@ -237,4 +237,4 @@ This repository serves as the official landing page for MSI Live Update. The sof
 **Get the most recent version of MSI Live Update today!**
 
 ---
-**Last updated:** 2026-09-27 21:40:44 UTC
+**Last updated:** 2026-09-28 00:02:37 UTC
